@@ -1,0 +1,25 @@
+body {
+	font-size: 18px;
+	background-color: #F6F6F6;
+	border-top: 5px solid #222222;
+	border-bottom: 5px solid #222222;
+	padding: 50px;
+	margin: 30px;
+}
+nav {
+	font-weight: bold;
+	text-align: center;
+	font-family: helvetica;
+}
+h1 {
+	text-align: center;
+	text-transform: uppercase;
+	font-family: helvetica;
+}
+h3 {
+	text-transform: uppercase;
+	font-family: helvetica;
+}
+img {
+	float: right
+}
