@@ -9,13 +9,16 @@ body {
 nav {
 	font-weight: bold;
 	text-align: center;
+	font-family: helvetica;
 }
 h1 {
 	text-align: center;
 	text-transform: uppercase;
+	font-family: helvetica;
 }
 h3 {
 	text-transform: uppercase;
+	font-family: helvetica;
 }
 img {
 	float: right
